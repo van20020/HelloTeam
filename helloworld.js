@@ -1,2 +1,2 @@
 const caroline = "Caroline";
-console.log("Hello", caroline);
+console.log("Hello", caroline); 
