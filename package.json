@@ -1,0 +1,23 @@
+{
+  "name": "cit-262",
+  "version": "1.0.0",
+  "description": "folder for CIT262",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello",
+    "hello": "node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckcomin/CIT-262.git"
+  },
+  "keywords": [
+    "CIT"
+  ],
+  "author": "Caroline Comin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckcomin/CIT-262/issues"
+  },
+  "homepage": "https://github.com/ckcomin/CIT-262#readme"
+}
