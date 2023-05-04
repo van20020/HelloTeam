@@ -1,1 +1,1 @@
-const names = ["Tyler" , "Christopher", "Ricky"]
+const names = ["Tyler" , "Christopher", "Ricky" , "JoseM"]
