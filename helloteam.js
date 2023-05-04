@@ -1,7 +1,7 @@
 const names = ["Caroline", "Tyler" , "Christopher","Jose", "Ricky", "Brother Hamilton"]
 
 
-names.forEach((item, index, array) => {
-    console.log(item + " is table 1 member " + index);
+names.forEach((person, index, array) => {
+    console.log(person + " is table 1 member " + index + " who is before " + array[index + 1]);
 }
 );
