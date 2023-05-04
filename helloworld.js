@@ -1,2 +1,2 @@
-const caroline = ["Caroline", "Tyler"];
+const caroline = "Caroline";
 console.log("Hello", caroline);
