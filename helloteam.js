@@ -2,6 +2,6 @@ const names = ["Caroline", "Tyler" , "Christopher","Jose", "Ricky", "Brother Ham
 
 
 names.forEach((item, index, array) => {
-    console.log(array[index] + " is table 1 member " + index);
+    console.log(item + " is table 1 member " + index);
 }
 );
